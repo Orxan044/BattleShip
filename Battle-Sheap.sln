@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Battle-Sheap", "Battle-Sheap\Battle-Sheap.vcxproj", "{0F862230-31C9-42DC-BC5E-16D9D5A4B146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Debug|x64.ActiveCfg = Debug|x64
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Debug|x64.Build.0 = Debug|x64
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Debug|x86.ActiveCfg = Debug|Win32
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Debug|x86.Build.0 = Debug|Win32
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Release|x64.ActiveCfg = Release|x64
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Release|x64.Build.0 = Release|x64
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Release|x86.ActiveCfg = Release|Win32
+		{0F862230-31C9-42DC-BC5E-16D9D5A4B146}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF804241-C23E-438C-B02E-883759EC6CE6}
+	EndGlobalSection
+EndGlobal
